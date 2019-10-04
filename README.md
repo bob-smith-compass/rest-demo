@@ -1,6 +1,6 @@
 # rest-demo
 
-You can find more info about this repository and how to wrap the REST API it contains with GraphQL [here](https://medium.com/@graphcool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d).
+Based on Medium article `how to wrap the REST API` it contains with GraphQL [here](https://medium.com/@graphcool/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d).
 
 > The GraphQL API wrapping this REST API can be found [here](https://github.com/nikolasburk/graphql-rest-wrapper)
 
@@ -17,13 +17,9 @@ You can find more info about this repository and how to wrap the REST API it con
 
 To see the data returned by the routes, check [users.json](./data/users.json) and [posts.json](/data/posts.json).
 
-## Usage
+## Run
 
-```sh
-git clone git@github.com:nikolasburk/rest-demo.git
-cd rest-demo
 yarn start
-```
 
 Sample requests:
 
@@ -36,7 +32,6 @@ Sample requests:
 
 ## Demo
 
-You can find a live demo of the REST API [here](https://rest-demo-hyxkwbnhaz.now.sh/).
 
 Sample requests:
 
